@@ -1,4 +1,4 @@
 nodejscms
 =========
 
-Just a node.js Content manager system
+Just a node.js Content management system
